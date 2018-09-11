@@ -36,8 +36,7 @@ appropriate setup), potentially (though not essentially) with some pre-amp gain 
 3. Signal processing of the digitised input/output signals leads to the calculation of frequency-domain transfer functions. 
 In the case that the 'input' (hammer) and 'output' (as a body velocity) are taken at (or very close to) the same position, a so-called "input admittance"
 may be obtained. In such cases it is fairly common to obtain the 'velocity' signal by integrating (in the frequency domain) an accelerometer signal. 
-
-Where sound radiation is of interest, it is common to record the response to the input 'tap' with one or more microphones. In such cases
+	* Where sound radiation is of interest, it is common to record the response to the input 'tap' with one or more microphones. In such cases
 a kind of vibroacoustic transfer function is obtained describing how mechanical energy injected into the DUT is converted to acoustic energy (at a given position).
 
 
