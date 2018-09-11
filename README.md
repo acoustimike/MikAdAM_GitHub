@@ -1,5 +1,4 @@
-# MikAdAM_master
-
+# MikAdAM_GitHub
 Programme name	: MikAdAM - Mike's Admittance App for Matlab (Matlab)
 
 Current Version : 1a
@@ -7,7 +6,7 @@ Current Version : 1a
 Date    		: 11/09/2018
 
 Author  		: Michael Newton (http://acoustimike.co.uk/ // https://twitter.com/acoustimike)
-
+---
 Summary: 
 This app uses Matlab's Data Acquisition Toolbox to perform data acquisition used to measure the vibroacoustic properties of solid bodies.
 
