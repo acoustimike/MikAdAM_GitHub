@@ -55,11 +55,7 @@ may be obtained. In such cases it is fairly common to obtain the 'velocity' sign
 a kind of vibroacoustic transfer function is obtained describing how mechanical energy injected into the DUT is converted to acoustic energy (at a given position).
 
 ### How to use MikAdAM
-A series of 3 short introductory videos that explain how to install and use MikAdAM:
 
-1. https://youtu.be/efN6BOS6yfo 
-2. https://youtu.be/85igh2mUCAQ 
-3. https://youtu.be/plX04j1MJKU
 
 ---
 
